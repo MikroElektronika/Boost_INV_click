@@ -1,0 +1,19 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F107VC -BIN -LHF -C -DL -SSA -O11111114 -fo72 -N"D:\Clicks_git\B\Boost-INV_Click\SW\example\c\ARM\STM\Click_Boost_INV_STM.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -SP"D:\Clicks_git\B\Boost-INV_Click\SW\example\c\ARM\STM\" -SP"D:\Clicks_git\B\Boost-INV_Click\SW\library\HAL\" -SP"D:\Clicks_git\B\Boost-INV_Click\SW\library\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\mikroBUS Board Definition API\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -IP"D:\Clicks_git\B\Boost-INV_Click\SW\example\c\ARM\STM\" -IP"D:\Clicks_git\B\Boost-INV_Click\SW\library\" -IP"D:\Clicks_git\B\Boost-INV_Click\SW\library\HAL\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\mikroBUS Board Definition API\Uses\" "Click_Boost_INV_STM.c" "__boostinv_driver.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_105_107.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_I2C_12.emcl" "__Lib_UART_123_45.emcl" "easymx_v7_STM32F107VC.emcl" "Click_Boost_INV.pld"	 
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 89	123	Compiled Successfully	Click_Boost_INV_STM.c
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 180	123	Compiled Successfully	__boostinv_driver.c
+hint: 323	1164	Variable 'tmp' has been eliminated by optimizer	__boostinv_driver.c
+hint: 84	1164	Variable 'tmp' has been eliminated by optimizer	__boostinv_driver.c
+hint: 101	1164	Variable 'ptr' has been eliminated by optimizer	__boostinv_driver.c
+hint: 109	1164	Variable 'ptr' has been eliminated by optimizer	__boostinv_driver.c
+hint: 140	1164	Variable 'Vp' has been eliminated by optimizer	__boostinv_driver.c
+hint: 162	1164	Variable 'Vn' has been eliminated by optimizer	__boostinv_driver.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 61   Dynamic RAM (bytes): 65469	Static RAM (bytes): 61   Dynamic RAM (bytes): 65469
+hint: 0	1144	Used ROM (bytes): 6664 (3%)  Free ROM (bytes): 255480 (97%)	Used ROM (bytes): 6664 (3%)  Free ROM (bytes): 255480 (97%)
+diagnostics: 0	125	Project Linked Successfully	Click_Boost_INV_STM.mcpar
+diagnostics: 0	128	Linked in 218 ms	 
+diagnostics: 0	129	Project 'Click_Boost_INV_STM.mcpar' completed: 406 ms	 
+diagnostics: 0	103	Finished successfully: 11 jul 2018, 14:25:54	Click_Boost_INV_STM.mcpar

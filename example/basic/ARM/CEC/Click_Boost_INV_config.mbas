@@ -1,0 +1,8 @@
+module Click_Boost_INV_config
+
+include Click_Boost_INV_types
+
+const
+    _BOOSTINV_I2C_CFG as uint32_t[1] = (_I2C_100KHZ)
+    
+end.
